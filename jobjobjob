@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+  <ul>
+<h1><strong>여러 가지 직업과 분야</strong></h1>
+<li><a href="1.science">science</a></li>
+<li><a href="2.art">art</a></li>
+<li><a href="3.humanities">humanities</a></li>
+<li><a href="4.music">science</a></li>
